@@ -12,6 +12,7 @@
 }
 
 .logodot {
+    align-self: baseline;
     color:  #A3DC00;
 }
 
@@ -44,7 +45,9 @@
     color: #9A9A9A;
 }
 
-.button {
+.button {  
+    color: #FFFFFF;
+    font-family: 'Roboto';
     border-radius: 6px;
     width: 152px;
     height: 63.82px;
@@ -59,4 +62,11 @@
     height: 638px;
     margin-top: 161px;
     margin-left: 19.29px;
+    margin-bottom: 121px;
+    float: right;
+
+}
+
+section {
+    display: inline-block;
 }
