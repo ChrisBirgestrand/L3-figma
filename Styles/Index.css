@@ -51,10 +51,12 @@
     background: #A3DC00;
     margin-top: 50px;
     margin-left: 200px;
+    border: none;
 }
 
 .yoga {
+    width: 756px;
+    height: 638px;
     margin-top: 161px;
     margin-left: 19.29px;
-    margin-right: 42px;
 }
