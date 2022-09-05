@@ -1,17 +1,60 @@
 .logo {
     font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 48px;
-/* or 160% */
-letter-spacing: -0.02em;
-color: #0A1B32;
-margin-top: 37px;
-margin-left: 80px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
 
 }
 
 .logodot {
-    color: #A3DC00;
+    color:  #A3DC00;
+}
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    font-family: 'Ramaraja';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 280.71px;
+    margin-left: 200px;
+
+}
+
+.Paragraph {
+    max-width: 582.71px;
+    width: 100%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    margin-top: 10px;
+    margin-left: 200px;
+    color: #9A9A9A;
+}
+
+.button {
+    border-radius: 6px;
+    width: 152px;
+    height: 63.82px;
+    background: #A3DC00;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.yoga {
+    margin-top: 161px;
+    margin-left: 19.29px;
+    margin-right: 42px;
 }
